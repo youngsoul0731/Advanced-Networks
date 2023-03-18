@@ -1,2 +1,1 @@
-# Deep-Learning-excise
-分享各种网络的相关知识及应用
+1.23-3-19更新GAN，由于上传问题，请左上角移步master查看
